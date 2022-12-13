@@ -2,7 +2,7 @@
 
 🔭 Foco em desenvolvimento MOBILE
 
-📚 Estudando Typescript, React, React Native
+📚 Estudando Typescript, React, React Native, Kotlin
 
 🎓 Graduando em Ciência da Computação 3/8
 
