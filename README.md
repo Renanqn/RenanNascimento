@@ -1,12 +1,10 @@
 # Olá! Eu sou o Renan Nascimento  
 
-🔭 Hoje trabalho com front-end
+🔭 Foco em desenvolvimento MOBILE
 
 📚 Estudando Typescript, React, React Native
 
-🎓 Graduando em Ciência da Computação 2/8
-
-😀 Pronouns: Ele/Dele
+🎓 Graduando em Ciência da Computação 3/8
 
 <div>
   <a href= "https://beacons.ai/Renanqn">
