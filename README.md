@@ -2,7 +2,7 @@
 
 🔭 Foco em desenvolvimento WEB
 
-📚 Estudando Typescript, React, Tailwind Next.
+📚 Estudando Typescript, React, Tailwind, Next.
 
 🎓 Graduando em Ciência da Computação 4/8
 
