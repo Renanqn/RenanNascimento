@@ -1,10 +1,10 @@
 # Olá! Eu sou o Renan Nascimento  
 
-🔭 Foco em desenvolvimento MOBILE
+🔭 Foco em desenvolvimento WEB
 
-📚 Estudando Typescript, React, React Native, Kotlin
+📚 Estudando Typescript, React, Tailwind Next.
 
-🎓 Graduando em Ciência da Computação 3/8
+🎓 Graduando em Ciência da Computação 4/8
 
 <div>
   <a href= "https://beacons.ai/Renanqn">
