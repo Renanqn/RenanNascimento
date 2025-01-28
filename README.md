@@ -1,10 +1,10 @@
 # Olá! Eu sou o Renan Nascimento  
 
-🔭 Foco em desenvolvimento WEB
+🔭 Foco em Cibersegurança
 
-📚 Estudando JavaScript, Typescript, React, Node, Next, Tailwind, BootStrap.
+📚 Estudando DevSecOps, Go, AWS, Docker, Linux,
 
-🎓 Graduando em Ciência da Computação 4/8
+🎓 Graduando em Ciência da Computação 7/8
 
 <div>
   <a href= "https://beacons.ai/Renanqn">
